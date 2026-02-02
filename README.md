@@ -78,7 +78,7 @@ chmod +x test5.sh
 ./push_swap 4 2 5 1 3 | ./checker_linux 4 2 5 1 3
 ```
 
-## Project Structure 🔍
+## Project Structure
 ```
 push_swap/
 ├── Makefile
